@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jamesord"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?hl=en&user=TF67AwsAAAAJ&view_op=list_works&sortby=pubdate"
 
 # Site Footer
